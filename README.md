@@ -16,6 +16,6 @@
 
 **Como rodar**
 
-  Se você tiver um compilador C/C++ instalado em sua maquina, pode compilar o "conta9.c"" direto da sua máquina, se for windows, instalr o MinGW, ou se não quiser fazer isso, é só copiar o conteúdo do "conta9.c" e utilizar de qualquer compilador online como o que estará no link abaixo:
+  Se você tiver um compilador C/C++ instalado em sua maquina, pode compilar o "conta9.c"" direto da sua máquina, se for windows, instala o MinGW, ou se não quiser fazer isso, é só copiar o conteúdo do "conta9.c" e utilizar de qualquer compilador online como o que estará no link abaixo:
 
 - [Link do Compilador online](https://www.onlinegdb.com/online_c_compiler)
