@@ -8,7 +8,7 @@ Apenas a linguagem de baixo nível C.
 
 **Funcionalidades**
 
-Contar quantidades de digitos 9 de 0 até 999.
+Contar quantidades de digitos 9 de 0 até 999 e vai esperar 3s até fechar
 
 **Outras Tecnologias**
 
