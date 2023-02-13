@@ -14,10 +14,6 @@ Contar quantidades de digitos 9 de 0 até 999 e vai esperar 3s até fechar
 
 EditorConfig para formatação do documento.
 
-# Sistema de Cadastro
-
-Seu objetivo é ser um sistema de cadastro, listagem e consulta de usuários vacinados.
-
 **Como rodar**
 
 Se você tiver um compilador C/C++ instalado em sua maquina, pode compilar o "mapa.c"" direto da sua máquina, se for windows, instalr o MinGW, ou se não quiser fazer isso, é só copiar o conteúdo do "mapa.c" e utilizar de qualquer compilador online como o que estará no link abaixo:
