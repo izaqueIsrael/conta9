@@ -8,7 +8,7 @@
 
 **Funcionalidades**
 
-  Contar quantidades de digitos 9 de 0 até 999 e vai esperar 3s até fechar
+  Contar quantidades de digitos 9 de 0 até 999 e vai esperar 3s até fechar.
 
 **Outras Tecnologias**
 
